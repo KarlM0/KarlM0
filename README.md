@@ -1,4 +1,4 @@
-## Hi there
+## KarlM0 @ GitHub
 
 <!--
 **KarlM0/karlm0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on some small personal projects.
+Some small personal projects.
