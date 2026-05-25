@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there
 
 <!--
-**Ramble3230/ramble3230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KarlM0/karlm0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently working on some small personal projects and learning to code.
