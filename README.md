@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on some small personal projects and learning to code.
+Currently working on some small personal projects.
